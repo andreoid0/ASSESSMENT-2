@@ -1,6 +1,5 @@
-string1 = "rizen"
-string2 = "is"
-string3 = "handsome"
+favorite_number = 7
 
-result = string1 + " " + string2 + " " + string3
-print(result)
+message = f"My favorite number is {favorite_number}!"
+
+print(message)
